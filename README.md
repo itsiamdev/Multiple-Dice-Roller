@@ -9,7 +9,7 @@
 - 📱 Responsive design for mobile and desktop
 
 ## Live Demo
-Check out the live version here: [https://iam269.github.io/Multiple-Dice-Roller/](https://iam269.github.io/Multiple-Dice-Roller/)
+Check out the live version here: [https://itsiamdev.github.io/Multiple-Dice-Roller/](https://itsiamdev.github.io/Multiple-Dice-Roller/)
 
 ## How to Use
 1. Enter the number of dice you want to roll
